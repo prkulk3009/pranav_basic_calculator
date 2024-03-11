@@ -10,5 +10,5 @@ setup(
     license='MIT',
     keywords='calculator math',
     url='https://github.com/prkulk3009/pranav_basic_calculator',
-    install_requires=[],
+    install_requires=[setuptools,],
 )
